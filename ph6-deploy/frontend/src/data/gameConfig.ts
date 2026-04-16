@@ -29,10 +29,10 @@ export const MARIO_BIG_W = 20
 export const MARIO_BIG_H = 44
 
 // Display sizes (visual — proportional to 70px tiles)
-export const MARIO_DISPLAY_SMALL_W = 30
-export const MARIO_DISPLAY_SMALL_H = 42
-export const MARIO_DISPLAY_BIG_W = 36
-export const MARIO_DISPLAY_BIG_H = 56
+export const MARIO_DISPLAY_SMALL_W = 3
+export const MARIO_DISPLAY_SMALL_H = 38
+export const MARIO_DISPLAY_BIG_W = 32
+export const MARIO_DISPLAY_BIG_H = 40
 
 // Enemies (used from PH3)
 export const GOOMBA_SPEED = 60
@@ -85,7 +85,7 @@ export const CASTLE_COLOR = '#2C1810'
 
 // Player start position
 export const PLAYER_START_X = 100
-export const PLAYER_START_Y = 300
+export const PLAYER_START_Y = 180
 
 // Tile size (Kenney platformer tiles)
 export const TILE_SIZE = 70
@@ -442,7 +442,7 @@ export const AUDIO_PATH_DIE = 'assets/audio/die.ogg'
 export const AUDIO_PATH_MUSIC = 'assets/audio/music.ogg'
 
 // PH6 — Music volume
-export const MUSIC_VOLUME = 0.5
+export const MUSIC_VOLUME = 0
 
 // PH6 — SoundManager registry key
 export const SOUND_MANAGER_KEY = 'soundManager'
