@@ -29,10 +29,10 @@ export const MARIO_BIG_W = 20
 export const MARIO_BIG_H = 44
 
 // Display sizes (visual — proportional to 70px tiles)
-export const MARIO_DISPLAY_SMALL_W = 3
+export const MARIO_DISPLAY_SMALL_W = 30
 export const MARIO_DISPLAY_SMALL_H = 38
-export const MARIO_DISPLAY_BIG_W = 32
-export const MARIO_DISPLAY_BIG_H = 40
+export const MARIO_DISPLAY_BIG_W = 30
+export const MARIO_DISPLAY_BIG_H = 48
 
 // Enemies (used from PH3)
 export const GOOMBA_SPEED = 60
